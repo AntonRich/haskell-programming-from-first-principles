@@ -38,3 +38,4 @@ s1 = Sentence "dogs" "drool"
 s2 = Sentence "Julie" "loves" "dogs"
 ```
 does typecheck.
+But invoking s1 in the repl will result in an error of "maybe you haven't applied a function to enough arguments?"
